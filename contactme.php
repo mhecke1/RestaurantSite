@@ -3,7 +3,7 @@
 <head>
 	<title>Matt's recipe site</title>
 	<meta charset="UTF-8">
-	<link href='http://fonts.googleapis.com/css?family=Hammersmith+One' rel='stylesheet' type='text/css'>
+	<?php @include_once("fonts.php"); ?>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
 	?>
 	<div id="main">
 		<div id="content">
-			<form method="POST" action="email.php">
+			<form method="POST" action="thankyou.php">
    				     <fieldset>
    				     <legend>Contact Form</legend>
 
