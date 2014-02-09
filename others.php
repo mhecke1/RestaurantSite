@@ -33,8 +33,9 @@
 				<li>1/3 teaspoon of sesame oil</li>
 				<li>1/3 teaspoon of chili (rooster) sauce to give it that bite</li>
 			</ul>
+			<p>you may need to downsize or upsize this recipe depending on how many eggs and how you are marinading them. This recipe will marinade around 6 in a large ziploc bag vacuum sealed with a straw.</p>
 
-			
+			<p>There are a number of ways of marinading eggs just be sure that the eggs are touching the container or air as little as possible</p>
 
 		</div>
 		<div id="footer">
