@@ -36,6 +36,17 @@
 			<p>you may need to downsize or upsize this recipe depending on how many eggs and how you are marinading them. This recipe will marinade around 6 in a large ziploc bag vacuum sealed with a straw.</p>
 
 			<p>There are a number of ways of marinading eggs just be sure that the eggs are touching the container or air as little as possible</p>
+			<h4>Classic Salad Dressing</h4>
+			<ul>
+			    <li>one third Olive oil</li>
+			    <li>Salt to taste</li>
+			    <li>cracked black pepper to taste</li>
+			    <li>1/5th Lemon juice</li>
+			    <li>1/5th Stone ground inglehoffer Mustard</li>
+			    <li>Parm cheese to taste</li>
+			    <li>Fresh basil chopped</li>
+			    <li>optional: Balsamic Vinegar</li>
+			</ul>
 
 		</div>
 		</div>
