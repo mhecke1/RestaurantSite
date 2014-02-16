@@ -47,6 +47,8 @@
 			    <li>Fresh basil chopped</li>
 			    <li>optional: Balsamic Vinegar</li>
 			</ul>
+			<p>The thing is with this recipe that it taste 10 times better when the ingredients are done right. The lemon juice needs to be from
+			    A fresh GOOD lemon. The Olive oil needs to be good Olive oil. Basically better ingredients for this will make it taste insanely good.</p>
 
 		</div>
 		</div>
