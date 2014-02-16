@@ -32,10 +32,9 @@
 			    
 
 		</div>
-		<div id="footer">
-			<p>Copyright Matthew Hecker | matthw@gmail.com</p>
-
 		</div>
+		<?php @include_once("contactme.php");
+	</div>
 	</div>
 </div>
 	

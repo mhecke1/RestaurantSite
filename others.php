@@ -38,10 +38,9 @@
 			<p>There are a number of ways of marinading eggs just be sure that the eggs are touching the container or air as little as possible</p>
 
 		</div>
-		<div id="footer">
-			<p>Copyright Matthew Hecker | matthw@gmail.com</p>
-
 		</div>
+		<?php @include_once("contactme.php");
+	</div>
 	</div>
 </div>
 	
